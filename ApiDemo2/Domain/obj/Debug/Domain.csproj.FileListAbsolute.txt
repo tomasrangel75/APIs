@@ -1,0 +1,5 @@
+C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\Domain\bin\Debug\Domain.dll
+C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\Domain\bin\Debug\Domain.pdb
+C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\Domain\obj\Debug\Domain.dll
+C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\Domain\obj\Debug\Domain.pdb
