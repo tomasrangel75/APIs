@@ -18,13 +18,7 @@ namespace ApiDemo2.Controllers
         private BlogContext db = new BlogContext();
 
 
-				[Authorize]
-  			[HttpGet]
-				public string returnId()
-				{
-					return User.Identity.Name;
-				}
-
+				[HttpGet]
         // GET: api/Blogs
 		    public IEnumerable<Blog> GetBlogs()
         {

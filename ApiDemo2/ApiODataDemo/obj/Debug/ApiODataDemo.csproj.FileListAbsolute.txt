@@ -65,3 +65,6 @@ C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\ApiODataDemo\bin\ko\System.Spatial
 C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\ApiODataDemo\bin\ru\System.Spatial.resources.dll
 C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\ApiODataDemo\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\ApiODataDemo\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\ApiODataDemo\bin\Owin.dll
+C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\ApiODataDemo\bin\Microsoft.Owin.dll
+C:\Users\Tomas\Documents\GitHub\APIs\ApiDemo2\ApiODataDemo\bin\Microsoft.Owin.xml
